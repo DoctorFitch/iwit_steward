@@ -1,0 +1,6 @@
+{
+    "name": "breith/iwit_infra",
+    "require": {
+        "bentools/pdoextended": "^2.2"
+    }
+}
